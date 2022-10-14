@@ -21,4 +21,4 @@ sudo apt-get install -y docker-ce containerd.io && sudo apt-get install -y kubec
 
 echo "sudo service docker start" >> ~/.profile
 
-exit 1
+echo "DONE! Installing Docker"
