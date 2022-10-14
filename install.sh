@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 sudo apt update
 
 sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common libssl-dev libffi-dev git wget nano
